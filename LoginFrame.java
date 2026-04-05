@@ -8,6 +8,8 @@ import java.awt.*;
 
 public class LoginFrame extends JFrame {
 
+    
+
     private static final Color BACKGROUND = new Color(241, 244, 236);
     private static final Color PANEL = new Color(255, 252, 244);
     private static final Color PRIMARY = new Color(44, 85, 48);
