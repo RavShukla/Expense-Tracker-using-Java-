@@ -1,0 +1,3 @@
+dao  : data access object 
+  handles all database operations
+  
